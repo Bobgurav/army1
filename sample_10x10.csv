@@ -1,0 +1,11 @@
+ID,Name,Age,Email,Country,Score,Status,JoinDate,LastLogin,Active
+1,Alice,29,alice@example.com,USA,85.5,Active,2022-01-10,2023-12-01,Yes
+2,Bob,34,bob@example.com,Canada,90.1,Inactive,2021-03-14,2023-06-21,No
+3,Charlie,28,charlie@example.com,UK,72.4,Active,2020-08-09,2024-01-15,Yes
+4,Diana,45,diana@example.com,Germany,88.9,Active,2019-11-30,2023-11-03,Yes
+5,Ethan,31,ethan@example.com,Australia,77.0,Suspended,2023-02-05,2024-03-12,No
+6,Fiona,26,fiona@example.com,France,82.3,Active,2022-07-17,2024-12-29,Yes
+7,George,39,george@example.com,Italy,91.8,Active,2018-06-22,2023-07-01,Yes
+8,Hannah,30,hannah@example.com,Spain,69.4,Inactive,2021-09-12,2022-12-31,No
+9,Ian,37,ian@example.com,Netherlands,84.6,Active,2020-04-03,2023-10-18,Yes
+10,Julia,33,julia@example.com,Sweden,79.5,Suspended,2023-05-27,2024-04-01,No

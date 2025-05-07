@@ -1,0 +1,11 @@
+CarID,Make,Model,Year,Color,Price,Mileage,FuelType,Transmission,Available
+1,Ford,Mustang,2018,Red,26000,40000,Gasoline,Manual,Yes
+2,Ford,Mustang,2019,Blue,27000,35000,Gasoline,Automatic,No
+3,Ford,Mustang,2020,Black,28000,30000,Gasoline,Manual,Yes
+4,Ford,Mustang,2021,White,30000,25000,Gasoline,Automatic,Yes
+5,Ford,Mustang,2022,Gray,32000,20000,Gasoline,Manual,Yes
+6,Ford,Mustang,2023,Silver,34000,15000,Gasoline,Automatic,No
+7,Ford,Mustang,2020,Green,29000,28000,Gasoline,Manual,Yes
+8,Ford,Mustang,2021,Yellow,31000,23000,Gasoline,Automatic,Yes
+9,Ford,Mustang,2022,Orange,33000,18000,Hybrid,Manual,No
+10,Ford,Mustang,2023,Purple,35000,12000,Electric,Automatic,Yes
